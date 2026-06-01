@@ -19,6 +19,8 @@ A beginner backend project built using FastAPI and SQLite.
 * FastAPI
 * SQLite
 * Pydantic
+* groq apy
+* llm model llama3
 
 ## Project Workflow
 
