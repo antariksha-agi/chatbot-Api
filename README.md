@@ -10,6 +10,8 @@ A beginner backend project built using FastAPI and SQLite.
 * Store timestamps
 * Retrieve previous chats
 * Delete chat records
+*  AI model integration
+*  Smarter bot responses
 
 ## Technologies Used
 
@@ -20,12 +22,10 @@ A beginner backend project built using FastAPI and SQLite.
 
 ## Project Workflow
 
-User Message → FastAPI Route → Bot Logic → SQLite Database → Response
+User Message → FastAPI Route → llm process → SQLite Database → Response
 
 ## Future Improvements
 
-* Smarter bot responses
-* AI model integration
 * User authentication
 * Search chat history
 * Deployment to cloud
