@@ -12,6 +12,7 @@ A beginner backend project built using FastAPI and SQLite.
 * Delete chat records
 *  AI model integration
 *  Smarter bot responses
+*  Deployed to ngrok
 
 ## Technologies Used
 
@@ -21,6 +22,7 @@ A beginner backend project built using FastAPI and SQLite.
 * Pydantic
 * groq API
 * llm model llama3
+* uvicorn
 
 ## Project Workflow
 
@@ -30,7 +32,7 @@ User Message → FastAPI Route → llm process → SQLite Database → Response
 
 * User authentication
 * Search chat history
-* Deployment to cloud
+
 
 ## Learning Goals
 
