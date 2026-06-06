@@ -12,6 +12,7 @@ A beginner backend project built using FastAPI and SQLite.
 * Delete chat records
 *  AI model integration
 *  Smarter bot responses
+*  chat memory limitet to 10 chats
 *  Deployed to ngrok
 
 ## Technologies Used
