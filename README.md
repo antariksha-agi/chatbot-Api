@@ -27,7 +27,20 @@ A beginner backend project built using FastAPI and SQLite.
 
 ## Project Workflow
 
-User Message → FastAPI Route → llm process → SQLite Database → Response
+User Message 
+   ↓
+Pydantic Model (Message Type Selection) 
+   ↓
+API Route 
+   ↓
+Wanted Query Selection 
+   ↓
+LLM → Process 
+   ↓
+Insert into SQLite Database 
+   ↓
+Response
+
 
 ## Future Improvements
 
