@@ -4,3 +4,4 @@ groq
 sqlite3
 datetime
 uvicorn
+ngrok
