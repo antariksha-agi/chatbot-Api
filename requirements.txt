@@ -1,0 +1,6 @@
+fastapi
+pydantic
+groq
+sqlite3
+datetime
+uvicorn
